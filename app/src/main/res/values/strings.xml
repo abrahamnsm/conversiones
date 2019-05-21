@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Examen Abraham</string>
+    <string name="textView2">Temperaturas</string>
+    <string name="CaF">Celsius A Fahrenheit</string>
+    <string name="FaC">Fahrenheit A Celsius</string>
+    <string name="CaK">Celsius A Kelvin</string>
+    <string name="KaC">Kelvin A Celsius</string>
+    <string name="textView1">Distancias</string>
+    <string name="MaC">Metros a Centimetros</string>
+    <string name="CaM">Centimetros a Metros</string>
+    <string name="CaP">Centimetros A Pulgadas</string>
+    <string name="PaC">Pulgadas A Centimetros</string>
+    <string name="unidad">UNIDADES</string>
+    <string name="CALCULAR">CONVERTIR</string>
+    <string name="RESULTADO">RESULTADO</string>
+</resources>
